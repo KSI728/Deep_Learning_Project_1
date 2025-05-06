@@ -16,6 +16,7 @@
 ## 📂 활용 데이터셋 출처
 
 - Kaggle (https://www.kaggle.com/code/shahraizanwar/age-gender-ethnicity-prediction/input)
+- 데이터의 용량이 큰 관계로 첨부하지 못한 점 양해부탁드립니다!
 
 ## 📂 파일 설명 
 
