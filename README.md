@@ -12,6 +12,7 @@
 - Matplotlib
 - Pytorch
 - Sklearn
+- Numpy
 
 ## 📂 활용 데이터셋 출처
 
